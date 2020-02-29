@@ -1,0 +1,313 @@
+@import url('https://fonts.googleapis.com/css?family=Akronim&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim|Great+Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim|El+Messiri|Great+Vibes|Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Akronim|El+Messiri|Great+Vibes|Parisienne|Playball&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+body{
+    background-image: url('./images/table2.jpeg');
+    width: 100%;
+    height: 100%;
+    background-color: grey;
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: 20px;
+    border: 30px solid black;
+}
+ .navbar-brand{
+    font-family: 'Akronim';
+    font-size: 45px;
+}
+nav{
+    font-size: 20px;
+    padding:20px;
+    font-family: fantasy;
+}
+nav li a:hover{
+    background-color: grey;
+    padding: 5px;
+}
+nav ul li a{
+    padding: 20px;
+} 
+h1{
+    text-align: center;
+    font-family: 'Lobster';
+    font-size: 90px;
+    
+
+}
+.mdb-lightbox{
+    height: 120%;
+    width: 120%;
+}
+#home{
+    overflow-y: scroll;
+}
+.welcome-img{
+    align-items: center;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+}
+.img-hover-zoom{
+    overflow:hidden;
+}
+.img-hover-zoom img{
+    transition:transform .5s ease;
+}
+.img-hover-zoom:hover img{
+    transform: scale(1.5);
+}
+ .welcome-text{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 30px;
+    font-family: 'Akronim' ;
+    font-family: 'Great Vibes' ;
+    font-family: 'Parisienne' ;
+    font-family: 'El Messiri' ;
+    color:white;
+ }
+ .offer-btn{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Akronim' ;
+    font-family: 'Great Vibes' ;
+    font-family: 'Parisienne' ;
+    font-family: 'El Messiri' ;
+    font-family: 'Playball' ;
+    font-size: 70px;
+ }
+ footer{
+     color: white;
+ }
+ .footer-img{
+    animation: bounce 5s infinite;
+    text-align: center;
+ }
+ .footer-text{
+     text-align: center;
+     font-family: 'Akronim';
+     font-size: 35px;
+     color: white;
+ }
+ #offers{
+     align-items: center;
+     margin-left: 15%;
+     height: 100%;
+     width: 100%;
+     display: none;
+     padding: 15px;
+ }
+ .footer-table{
+     align-items: center;
+     align-content: center;
+     margin-left: 45%;
+     border: none;
+ }
+
+                        /* about                              */
+
+ #about{
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+.about-text{
+    font-size: 30px;
+    font-family: 'Akronim' ;
+    font-family: 'Great Vibes' ;
+    font-family: 'Parisienne' ;
+    font-family: 'El Messiri';
+}
+.about-heading{
+    color: white;
+    margin-left: 20px;
+}
+#ab{
+    margin-bottom: 29%;
+}
+.container{
+    margin-top: 0%;
+    color: white;
+}
+.cont{
+    padding-top: 10px;
+}
+.italian{
+    float: right;
+}
+
+           /* contact */
+ 
+#contact{
+    color: white;
+
+}.contact{
+    padding: 25px;
+    margin-left: 20%;
+ }
+footer{
+    height: auto;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+#img{
+    padding: 40px;
+ }
+.contacts{
+    align-items: center;
+    width: 400px;
+    text-align: center;
+    align-content: center;
+    flex-direction: column;
+    margin-left: 40%;
+    color: white;
+}
+.myForm-input {
+    font-size: 12px;
+    padding: 5px 10px 10px 5px;
+    display: block;
+    width: 100%;
+    background: transparent;
+    color: white;
+    border: 2px solid black;
+
+}
+
+
+form.contact-us {
+    background: transparent;
+    padding-top: 20px;
+}
+
+form.contact-us input,
+form.contact-us textarea,
+div.contact-btn button {
+    margin-bottom: 10px;
+    padding: 7px 5px;
+    border: 1px solid white;
+    color: white;
+}
+
+#email {
+    width: 26%;
+    margin-left: 20px;
+}
+#name{
+    width: 26%;
+}
+.name-input{
+    margin-right: 50%;
+}
+#comment{
+    margin-left: 30%;
+    color: black;
+}
+.form-group{
+    margin-left: 32%;
+}
+textarea{
+    width: 38%;
+    height:57%;
+}
+div.contact-btn button {
+    padding: 7px 10px;
+    width: 150px;
+    font-weight: bold;
+    transition: border 0.2s;
+    font-size: 15px;
+}
+
+div.contact-btn button:hover {
+    border: 2px solid white;
+}  
+#button{
+    color: black;
+    margin-left: 30%;
+}         
+.contacts input[type="text"],[type="submit"]{
+    background-color: white;
+    text-align: center;
+ }
+.form input[type="number"],[type="submit"]{
+    background-color: white;
+    text-align: center;
+}
+#my-message{
+    width: 50%;
+    height: 50%;
+}
+
+             /* menu/order */
+
+
+
+
+#order{
+    color: white;
+
+}
+#menu{
+    overflow-y: scroll ;
+}
+#menu{
+    align-items: center;
+    margin-left: 5%;
+    height: 100%;
+    width: 100%;
+    display: none;
+    padding: 15px;
+}
+.menu-btn{
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Akronim' ;
+    font-family: 'Great Vibes' ;
+    font-family: 'Parisienne' ;
+    font-family: 'El Messiri' ;
+    font-family: 'Playball' ;
+    font-size: 70px;
+}
+#magic1,
+#magic2,
+#magic3 {
+    display: none;
+}
+
+
+
+#order{
+    background-color: black;
+    width: 100%;
+}
+.type{
+    align-items: center;
+    align-content: center;
+    width: 50%;
+}
+.size{
+    align-items: center;
+    align-content: center;
+}
+.crust{
+    align-items: center;
+    align-content: center;
+}
+.toppings{
+    align-items: center;
+    align-content: center;
+}
+.rp-cool{
+    float: left;
+}
+.enjoy{
+    font-family: 'Pacifico';
+}
