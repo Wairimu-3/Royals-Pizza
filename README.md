@@ -21,6 +21,7 @@ The next page is the about page where you will know about the history of the res
 
 The menu/order page contains a menu button where you can view available pizza and toppings.Then an order form where a client can choose the type of pizza they want,the size,the toppings on the pizza and crust.
 
+Below that,there is a checxkout button which verifies your order,delivery location and fee.
 
 The last page is the contact page,which contains the contact details of the restaurant and a form in which you can leave a comment/suggestion.
 ### Support and contact details
