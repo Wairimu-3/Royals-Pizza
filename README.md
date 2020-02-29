@@ -20,6 +20,8 @@
 > The next page is the about page where you will know about the history of the restaurant,what is offered in the restaurant and the its various location.
 
 >The menu/order page contains a menu button where you can view available pizza and toppings.
+
+>The last page is the contact page,which contains the contact details of the restaurant and a form in which you can leave a comment/suggestion.
 ### Support and contact details
 If you experience issues that are related to my site and are hindering you from accessing this material, then please contact me.
 ### Links to all projects
