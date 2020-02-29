@@ -7,12 +7,12 @@ This is a website about a pizza restaurant called Royals pizza palace.All the de
 >Below is a link to the project:
   ....link....
 ## Technologies Used
->>The site was created using:
-> 1. HTML
-> 2. CSS
-> 3. Java Script
-> 4. Bootstrap
-> 5. JQuery
+The site was created using:
+ 1. HTML
+ 2. CSS
+ 3. Java Script
+ 4. Bootstrap
+ 5. JQuery
 >
 ### user stories
 In the home page,You will see the images of the restaurant and how much our clients enjoy the place.
