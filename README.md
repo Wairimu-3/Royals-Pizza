@@ -1,4 +1,4 @@
-# Royals PIzza Palace
+# Royals Pizza Palace
 #### Royals pizza palace, 29/Feb/2020
 #### By **Margaret Kimani**
 ## Description
