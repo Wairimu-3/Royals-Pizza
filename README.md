@@ -19,7 +19,8 @@ In the home page,You will see the images of the restaurant and how much our clie
 
 The next page is the about page where you will know about the history of the restaurant,what is offered in the restaurant and the its various location.
 
-The menu/order page contains a menu button where you can view available pizza and toppings.
+The menu/order page contains a menu button where you can view available pizza and toppings.Then an order form where a client can choose the type of pizza they want,the size,the toppings on the pizza and crust.
+
 
 The last page is the contact page,which contains the contact details of the restaurant and a form in which you can leave a comment/suggestion.
 ### Support and contact details
