@@ -2,7 +2,7 @@
 #### Royals pizza palace, 29/Feb/2020
 #### By **Margaret Kimani**
 ## Description
->>This is a website about a pizza restaurant called Royals pizza palace.All the details needed about the restaurant are in the website.
+This is a website about a pizza restaurant called Royals pizza palace.All the details needed about the restaurant are in the website.
 
 >Below is a link to the project:
   ....link....
@@ -25,7 +25,7 @@ The last page is the contact page,which contains the contact details of the rest
 ### Support and contact details
 If you experience issues that are related to my site and are hindering you from accessing this material, then please contact me.
 ### Links to all projects
->Below are links to other projects:
+Below are links to other projects:
 
 https://wairimu-3.github.io/Akan-Name/
 
