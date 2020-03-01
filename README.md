@@ -28,7 +28,7 @@ The last page is the contact page,which contains the contact details of the rest
 There are no known bugs. In case you do encounter any, please contact me.
 ### Support and contact details
 If you experience issues that are related to my site and are hindering you from accessing this material, please contact me.
-### Links to other sites
+### Link to other sites
 Below are links to other projects:
 
 https://wairimu-3.github.io/Akan-Name/
