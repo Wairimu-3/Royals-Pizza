@@ -24,6 +24,7 @@ The menu/order page contains a menu button where you can view available pizza an
 Below that,there is a checxkout button which verifies your order,delivery location and fee.
 
 The last page is the contact page,which contains the contact details of the restaurant and a form in which you can leave a comment/suggestion.
+### known bugs
 ### Support and contact details
 If you experience issues that are related to my site and are hindering you from accessing this material, please contact me.
 ### Links to other sites
