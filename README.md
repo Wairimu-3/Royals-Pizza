@@ -47,7 +47,7 @@ https://beryl01.github.io/My-Tailor/
 ### Contact 
 +  Email: kimanimargaret46@gmail.com
 ### License
-MIT licence
+MIT license
 
 https://choosealicense.com/licenses/mit/
 
