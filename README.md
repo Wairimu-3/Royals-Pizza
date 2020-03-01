@@ -4,7 +4,7 @@
 ## Description
 This is a website about a pizza restaurant called Royals pizza palace.All the details needed about the restaurant are in the website.
 
->Below is a link to the project:
+>Below is a link to the site:
   ....link....
 ## Technologies Used
 The site was created using:
