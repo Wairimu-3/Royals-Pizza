@@ -15,7 +15,7 @@ The site was created using:
  5. JQuery
 >
 ### user stories
-In the home page,You will see the images of the restaurant and how much our clients enjoy the place.
+The first page is the home page where you will see the images of the restaurant and how much our clients enjoy the place.
 
 The next page is the about page where you will know about the history of the restaurant,what is offered in the restaurant and the its various location.
 
