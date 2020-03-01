@@ -45,6 +45,7 @@ h1{
 }
 #home{
     overflow-y: scroll;
+    overflow-x: hidden;
 }
 .welcome-img{
     align-items: center;
