@@ -83,42 +83,48 @@ btn.onclick = function (event) {
 
 function getSize() {
     var selectedValue = document.getElementById("size").value;
-    return parseInt(selectedValue);
+    return parseInt(selectedValue); 
 }
 
 
 
 function getType() {
-    var selectedToppings = document.getElementById("typeOfPizza").value;
-    return parseInt(selectedToppings);
+    var selectedType = document.getElementById("typeOfPizza").value;
+    return parseInt(selectedType);
 }
 function getQuantity() {
     var selectedQuantity = document.getElementById("quantity").value;
     return parseInt(selectedQuantity);
 }
 function getCrust() {
-    var selectedQuantity = document.getElementById("crust").value;
-    return parseInt(selectedQuantity);
+    var selectedCrust = document.getElementById("crust").value;
+    return parseInt(selectedCrust);
 }
 function getToppings() {
     var selectedToppings = document.getElementById("toppings").value;
     return parseInt(selectedToppings);
 }
+
 function getTotalAmount() {
     let totalAmount = (getSize() + getToppings() + getType()) * getQuantity();
-    if (totalAmount) {
+    if (totalAmount && getType() > 0 && getSize() > 0){
         alert("You have Ordered" + " " + getQuantity("") + " " + "pizza." + "" + " The Total Amount is kshs " + (totalAmount) + "" + " Thank you for eating at Royals pizza palace.");
     } else {
         return false
     }
     return totalAmount;
 }
+
 function output() {
     let ourAmount = getTotalAmount()
-    if (ourAmount) {
+    if (ourAmount && getType() > 0 && getSize() > 0) {
         prompt('Enter your location');
         alert("Your pizza will be delivered to you...the delivery fee is ksh.100...Welcome again!!")
-    } else {
-        alert("Royals pizza palace!!We offer top notch pizza service.Welcome!")
+    } else if (getType() < 1){
+        alert("select pizza type")
+    } else if(getSize() < 1){
+        alert("select pizza size")
+    }else {
+        alert("Please fill in the quantity and order details!")
     }
 }
